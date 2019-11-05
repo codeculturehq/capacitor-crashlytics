@@ -1,4 +1,6 @@
-# capacitor-crashlytics [![npm version](https://badge.fury.io/js/capacitor-crashlytics.svg)](https://badge.fury.io/js/capacitor-crashlytics)
+# capacitor-crashlytics-cc [![npm version](https://badge.fury.io/js/capacitor-crashlytics-cc-fork.svg)](https://badge.fury.io/js/capacitor-crashlytics-cc-fork)
+
+__Fork of capacitor-crashlytics__
 
 Capacitor plugin to enable features from Firebase Crashlytics
 

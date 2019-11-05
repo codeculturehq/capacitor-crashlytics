@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CapacitorCrashlytics'
+    s.name = 'CapacitorCrashlyticsCcFork'
     s.version = '0.0.1'
     s.summary = 'Enable Firebase Crashlytics for Capacitor Apps'
     s.license = 'MIT'

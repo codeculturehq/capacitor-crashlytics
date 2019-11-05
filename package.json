@@ -1,7 +1,7 @@
 {
-  "name": "capacitor-crashlytics",
+  "name": "capacitor-crashlytics-cc-fork",
   "version": "0.0.1",
-  "description": "Enable Firebase Crashlytics for Capacitor Apps",
+  "description": "Fork of capacitor-crashlytics",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
@@ -28,7 +28,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCrashlytics.podspec"
+    "CapacitorCrashlyticsCcFork.podspec"
   ],
   "keywords": [
     "capacitor",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stewwan/capacitor-crashlytics"
+    "url": "https://github.com/codeculturehq/capacitor-crashlytics"
   },
   "bugs": {
-    "url": "https://github.com/stewwan/capacitor-crashlytics/issues"
+    "url": "https://github.com/codeculturehq/capacitor-crashlytics/issues"
   }
 }
